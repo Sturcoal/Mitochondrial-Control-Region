@@ -1,2 +1,6 @@
 # Mitochondrial-Control-Region
-Any data an useful scripts related to my studies of CR evolution
+Any data and useful scripts related to my studies of CR evolution
+
+---
+
+
