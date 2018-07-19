@@ -7,7 +7,7 @@ Any data and kinda useful scripts related to my studies of CR evolution
   
 [Supplement material](https://github.com/Sturcoal/Mitochondrial-Control-Region/blob/master/Tur_et_al_2018_MitDNA_suppl.pdf)
 
-Scripts and recommendations for the mapping and plotting annotated mitochondrial CR sequences can be found [here](https://github.com/Sturcoal/Mitochondrial-Control-Region/blob/master/CR_mapping_and_plotting.R)
+Scripts and recommendations for the mapping and plotting of the annotated mitochondrial CR sequences can be found [here](https://github.com/Sturcoal/Mitochondrial-Control-Region/blob/master/CR_mapping_and_plotting.R)
 
 
 
