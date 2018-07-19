@@ -14,7 +14,7 @@ install.packages("xlsx","genoPlotR")
 library(genoPlotR)
 library(xlsx)
 
-# you will need to prepare the tables like [that](https://github.com/Sturcoal/Mitochondrial-Control-Region/blob/master/AD.csv) for every tip on your phylogeny
+# you will need to prepare the tables like that (https://github.com/Sturcoal/Mitochondrial-Control-Region/blob/master/AD.csv) for every tip on your phylogeny
 # please read the genoPlotR package manual to find out more
 
 # read the tables
