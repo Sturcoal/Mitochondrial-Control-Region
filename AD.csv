@@ -1,0 +1,13 @@
+name,start,end,strand,col
+TAS2,14,23,1,    red
+TAS3,69,80,1,    red
+TAS4,88,98,1,    red
+F,265,283,1,   blue
+E,321,342,1,   blue
+D,356,377,1,   blue
+C,411,435,1,   blue
+B,453,473,1,   blue
+A,486,508,1,   blue
+CSB-I,612,630,1,  green
+CSB-II,703,721,1,  brown
+CSB-III,748,765,1,magenta
