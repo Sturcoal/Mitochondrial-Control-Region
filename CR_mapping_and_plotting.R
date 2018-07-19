@@ -4,7 +4,7 @@
 # For CR annotation use... previously published annotation as nobody knows yet what is a biological scence of those up to 6 conserved evlements within it.
 
 # setting up your working directory
-setwd("the_path_to_your_working_directory")
+setwd(choose.dir())
 
 # you will need the following packages
 # but you don't really need xlsx if you know how to deal with tables in R
