@@ -1,7 +1,7 @@
 # Here you can find the instructions for plotting the mapped mitochonfrial CR sequences onto phylogeny.
-# Before you start please find out the intervals for genomic regions you are going to map.
+# Before you start please calculate the intervals for genomic regions you are going to map.
 # Use MITOS web-server (http://mitos.bioinf.uni-leipzig.de/index.py) for either complete genome annotation or the sequences which flank regions adjacent with CR. 
-# For CR annotation use... previously published annotation as nobody knows yet what is a biological scence of those up to 6 conserved evlements within it.
+# For CR annotation use... previously published annotation as nobody knows yet what is a biological scence of those up to 6 conserved elements within it.
 
 # setting up your working directory
 setwd(choose.dir())
