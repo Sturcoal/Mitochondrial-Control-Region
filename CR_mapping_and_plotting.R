@@ -1,7 +1,7 @@
-Here you can find the instructions for plotting the mapped mitochonfrial CR sequences onto phylogeny.
-Before you start please find out the intervals for genomic regions you are going to map.
-Use MITOS web-server (http://mitos.bioinf.uni-leipzig.de/index.py) for either complete genome annotation or the sequences which flank regions adjacent with CR. 
-For CR annotation use... previously published annotations as still nobody knows what is a biological scence of those 6 conserved evlements within it.
+# Here you can find the instructions for plotting the mapped mitochonfrial CR sequences onto phylogeny.
+# Before you start please find out the intervals for genomic regions you are going to map.
+# Use MITOS web-server (http://mitos.bioinf.uni-leipzig.de/index.py) for either complete genome annotation or the sequences which flank regions adjacent with CR. 
+# For CR annotation use... previously published annotation as nobody knows yet what is a biological scence of those up to 6 conserved evlements within it.
 
 # setting up your working directory
 setwd("the_path_to_your_working_directory")
@@ -14,7 +14,7 @@ install.packages("xlsx","genoPlotR")
 library(genoPlotR)
 library(xlsx)
 
-# you will need to prepare the tables like [that](https://github.com/Sturcoal/Ammodytes/blob/master/Table%20S1.csv) for every tip on your phylogeny
+# you will need to prepare the tables like [that](https://github.com/Sturcoal/Mitochondrial-Control-Region/blob/master/AD.csv) for every tip on your phylogeny
 # please read the genoPlotR package manual to find out more
 
 # read the tables
